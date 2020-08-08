@@ -1,8 +1,8 @@
 # How to Contribute
-
+# Neue Nachricht 
+Bitte sende eine Email an : lieblings_kollege@fiema.com
 # Issues
-
-* Please tag your issue with `bug`, `feature request`, or `question` to help us
+Please tag your issue with `bug`, `feature request`, or `question` to help us
   effectively respond.
 * Please include the versions of TensorFlow and Tensor2Tensor you are running
   (run `pip list | grep tensor`)
